@@ -1,0 +1,8 @@
+Flask==2.2.2
+gunicorn
+Werkzeug==2.2.2
+ultralytics==8.0.196
+opencv-python-headless 
+torch
+scikit-learn
+flask-cors
